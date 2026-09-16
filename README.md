@@ -113,6 +113,6 @@ Seluruh skema dibuat melalui **migration** dan diisi otomatis melalui **seeder**
 
 ## 👨‍💻 Author
 
-- **[Nama Lengkap Kamu]** — **[NIM]**
+- **EKA KOSSAY** — **2145212**
 
-Program Studi Informatika · Fakultas Ilmu Komputer · Universitas Mercu Buana
+Program Studi Informatika · Fakultas Ilmu Komputer · UNIBA
